@@ -22,3 +22,6 @@ Controller:
 The 2 servlets are:
 product servlet: It intercepts the request when user clicks on submit button after entering all product details.
 coupon servlet: It intercepts two requests, first when the user clicks on submit button after entering all coupon details, and secondly when wants to find all coupon details for a particular coupon code.
+
+How to start the application?
+Right click on the application in SpringToolSuite, click on run on server. index.html will be get displayed automatically in the web browser.
