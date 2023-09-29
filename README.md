@@ -25,3 +25,14 @@ coupon servlet: It intercepts two requests, first when the user clicks on submit
 
 How to start the application?
 Right click on the application in SpringToolSuite, click on run on server. index.html will be get displayed automatically in the web browser.
+
+Tech: 
+JSP, Servlets, JDBC
+
+What did I learn?
+1. How to create servlets and how do they intercept all client requests and forwards them to the business layer(DAO) so that operations can be performed on the database.
+2. What is JDBC and how to establish connection with the mysql database
+3. How to create JSPs and how they display information on the web browser.
+
+Udemy course that helped creating this project:
+JDBC Servlets and JSP - Java Web Development Fundamentals taught by Bharath Thippireddy
